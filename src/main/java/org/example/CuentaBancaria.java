@@ -11,7 +11,7 @@ public class CuentaBancaria {
 
     public void depositar(double cantidad) {
         if (cantidad > 0) {
-            saldo += cantidad; // Segundo Cambio en master
+            saldo += cantidad; // Segundo Cambio EjemploRama
         }
     }
 
